@@ -14,7 +14,7 @@ The installation process creates the Distributor and all Workers for each data s
 
 ## How it works
 
-* **Any format. Any source -** Collect data from anywhere it’s generated, across every aspect of the network. All data is aggregated, observed, and seamlessly routed to any destination.
+* **Any format. Any source** - Collect data from anywhere it’s generated, across every aspect of the network. All data is aggregated, observed, and seamlessly routed to any destination.
 * **Edge observability** - Listeners are placed right on the edge to collect all data as close as possible to where it’s generated.
 * **Centralized management** - Onum receives data from Listeners and observes and optimizes the data from all nodes. All data is then sent to the proper data sink.
 
