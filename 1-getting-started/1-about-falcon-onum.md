@@ -1,7 +1,3 @@
----
-description: Observability & Orquestration in real time. Any format. Any source.
----
-
 # 1-About Falcon Onum
 
 ## Overview
