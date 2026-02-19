@@ -1,10 +1,6 @@
----
-description: >-
-  Get to grips with these key concepts to better understand how Onum works and
-  use it to its full potential.
----
-
 # 6-Key Terminology
+
+Get to grips with these key concepts to better understand how Onum works and use it to its full potential.
 
 ### **Action**
 

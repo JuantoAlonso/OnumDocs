@@ -2,8 +2,6 @@
 
 Welcome to Falcon Onum! This guide will help you start working with Onum, a powerful tool designed to enhance your data analysis and processing capabilities.
 
-{% embed url="https://www.youtube.com/watch?v=dCK3U9pRkjE" %}
-
 ## Accessing Onum
 
 Once you get your Onum credentials, you only have to go to [console.onum.com](https://console.onum.com/) and enter them to access your **Tenant**.&#x20;
@@ -30,8 +28,6 @@ An inactive session will be automatically logged out after one hour.
 When you access the Onum app, you'll see [the **Home** page](/broken/pages/SbyNoKrssMewzexgs1og), where you can see an overview of the activity in your Tenant.
 
 You can access the rest of the areas in Onum using the left panel.
-
-<figure><picture><source srcset="../.gitbook/assets/daasa.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/gs1.png" alt=""></picture><figcaption></figcaption></figure>
 
 ## Create your first Listener
 

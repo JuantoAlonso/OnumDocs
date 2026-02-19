@@ -1,7 +1,3 @@
----
-description: Falcon Onum installation process
----
-
 # 3-Deployment
 
 ## Overview
