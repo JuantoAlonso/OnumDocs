@@ -1,7 +1,3 @@
----
-description: Designed for the Edge, created in the Cloud
----
-
 # 2-Architecture
 
 Easy, flexible deployment in any environment while keeping them as close as possible to where the data is produced delivers unparalleled speed and efficiency, enabling you to cut the infrastructure you have dedicated to orchestration by up to 80%.
