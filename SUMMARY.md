@@ -8,11 +8,7 @@
 * [2-Architecture](1-getting-started/architecture.md)
 * [3-Deployment](1-getting-started/deployment.md)
 * [4-Getting Started with Falcon Onum](1-getting-started/getting-started-with-falcon-onum.md)
-* [5-Understanding The Essentials](1-getting-started/understanding-the-essentials/README.md)
-  * [1-The Time Range Selector](1-getting-started/understanding-the-essentials/1-the-time-range-selector.md)
-  * [2-Graph Calculations](1-getting-started/understanding-the-essentials/2-graph-calculations.md)
-  * [3-Cards and Table Views](1-getting-started/understanding-the-essentials/3-cards-and-table-views.md)
-  * [4-Data Types](1-getting-started/understanding-the-essentials/4-data-types.md)
+* [5-Understanding the Essentials](1-getting-started/5-understanding-the-essentials.md)
 * [6-Key Terminology](1-getting-started/key-terminology.md)
 
 ## 2-THE WORKSPACE
