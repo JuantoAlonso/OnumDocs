@@ -16,8 +16,6 @@ Listeners are hosted within Distributors and are placed as close as possible to 
 
 The installation process creates the Distributor and all Workers for each data source in the cluster.
 
-<div data-full-width="false"><figure><picture><source srcset="../.gitbook/assets/architecture-dark.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/architecture-light.png" alt=""></picture><figcaption></figcaption></figure></div>
-
 ## How it works
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th><select></select></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Any format. Any source.</strong></td><td><p>Collect data from anywhere it’s generated, across every aspect of the network.</p><p>All data is aggregated, observed, and seamlessly routed to any destination.</p></td><td></td><td></td><td><a href="../.gitbook/assets/any.png">any.png</a></td></tr><tr><td><strong>Edge observability</strong></td><td>Listeners are placed right on the edge to collect all data as close as possible to where it’s generated. </td><td></td><td></td><td><a href="../.gitbook/assets/edge.png">edge.png</a></td></tr><tr><td><strong>Centralized management</strong></td><td>Onum receives data from  Listeners and observes and optimizes the data from all nodes. All data is then sent to the proper data sink.</td><td></td><td></td><td><a href="../.gitbook/assets/centralized.png">centralized.png</a></td></tr></tbody></table>
