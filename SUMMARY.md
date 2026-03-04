@@ -13,7 +13,10 @@
 
 ## 2-THE WORKSPACE
 
-* [Page 1](2-the-workspace/page-1.md)
+* [1-Home](2-the-workspace/page-1.md)
+* [2-Listeners](2-the-workspace/2-listeners.md)
+* [3-Pipelines](2-the-workspace/3-pipelines.md)
+* [4-Data Sinks](2-the-workspace/4-data-sinks.md)
 
 ## 3-ADMINISTRATION
 
