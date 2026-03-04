@@ -6,7 +6,7 @@ The exponential growth of data ingestion volumes can lead to reduced performance
 
 Gain deep insights from any type of data, using any format, from any source.
 
-All of this...HA
+All of this...
 
 ## @ the Edge
 
