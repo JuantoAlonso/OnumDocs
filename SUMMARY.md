@@ -13,7 +13,7 @@
 
 ## 2-THE WORKSPACE
 
-* [1-Home](2-the-workspace/page-1.md)
+* [1-Home](2-the-workspace/1-home.md)
 * [2-Listeners](2-the-workspace/2-listeners.md)
 * [3-Pipelines](2-the-workspace/3-pipelines.md)
 * [4-Data Sinks](2-the-workspace/4-data-sinks.md)
@@ -29,3 +29,17 @@
 ## 5-MARKETPLACE
 
 * [Page 4](5-marketplace/page-4.md)
+
+***
+
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+    downloadLink: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: onum-api
+  ```
